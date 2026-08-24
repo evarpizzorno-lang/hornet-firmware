@@ -72,9 +72,9 @@
 #define Y_DIR_PIN          PB2
 #define Y_ENABLE_PIN       PB12
 
-#define Z_STEP_PIN         PB0
-#define Z_DIR_PIN          PC5
-#define Z_ENABLE_PIN       PB1
+#define Z_STEP_PIN         PA4
+#define Z_DIR_PIN          PA3
+#define Z_ENABLE_PIN       PA5
 
 #define E0_STEP_PIN        PA7
 #define E0_DIR_PIN         PA6
